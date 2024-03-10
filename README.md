@@ -17,4 +17,4 @@ Faça uma breve aprensentação sobre você e a sua stack.
 
 
 
-![snake git]{https://github.com/Chumbos99/Chumbos99/formandodev/blob/output/github-contribution-grid-snake-svg)
+![snake gif](https://github.com/Chumbos99/Chumbos99/blob/output/github-contribution-grid-snake.svg)
