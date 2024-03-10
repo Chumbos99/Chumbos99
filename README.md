@@ -1,14 +1,15 @@
-## 💜 Olá, meu nome é Guilherme Martinho!
+## Hello, my name is Guilherme Martinho!
 
-Faça uma breve aprensentação sobre você e a sua stack.
+Hello there! I'm Guilherme Martinho, a Computer Engineering student at SENAI/CIMATEC. I'm on a quest to gain knowledge in the tech world, and I'm always eager to learn and face new challenges. I have a deep interest in Data Science, a field that captivates me with its potential to derive valuable insights from vast amounts of data. As I navigate through my academic journey, i am actively seeking opportunities to apply what i learn in class to pratical scarios.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
+## 📚 About me
+  •	🎓 Studying Computer Engineering at SENAI/CIMATEC.
+  • 🚀 Working in the optics laboratory at SENAI/CIMATEC.
+  • 🌍 Consistently pursuing opportunities to improve my skills and expand my knowledge.
+  • 🎉 22 years young and always learning!
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bitbucket,cmake,figma,git,github,java,linux,mysql,opencv,py,qt,)](https://skillicons.dev)
 ## ⭐ GitHub Stats
@@ -17,4 +18,4 @@ Faça uma breve aprensentação sobre você e a sua stack.
 
 
 
-![snake gif](https://github.com/Chumbos99/Chumbos99/blob/output/github-contribution-grid-snake.svg)
+
