@@ -14,3 +14,7 @@ Faça uma breve aprensentação sobre você e a sua stack.
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+
+
+
+![snake git]{https://github.com/Chumbos99/Chumbos99/formandodev/blob/output/github-contribution-grid-snake-svg)
