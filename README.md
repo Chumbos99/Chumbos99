@@ -11,7 +11,7 @@ Hello there! I'm Guilherme Martinho, a Computer Engineering student at SENAI/CIM
 
 ## 🚀 My Skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bitbucket,cmake,figma,git,github,java,linux,mysql,opencv,py,qt,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bitbucket,git,java,linux,mysql,opencv,py,qt,)](https://skillicons.dev)
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chumbos99&show_icons=true)
